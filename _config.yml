@@ -13,9 +13,9 @@ title                    : "Brian K Chen"
 title_separator          : "-"
 name                     : &name "Brian K Chen"
 description              : &description "Research in efficient language models, long-context inference, diffusion language models, and model expressivity."
-url                      : "https://BKCheNUS.github.io"
+url                      : "https://brian-k-chen.github.io"
 baseurl                  : "" # Keep empty for a USERNAME.github.io repository
-repository               : "BKCheNUS/BKCheNUS.github.io" # TODO: Set to YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.github.io
+repository               : "BKCheNUS/brian-k-chen.github.io" # TODO: Set to YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.github.io
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
