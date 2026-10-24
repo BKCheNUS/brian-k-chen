@@ -10,10 +10,11 @@ redirect_from:
 ---
 
 # About Me
+Currently a Co-Founder and Machine Learning Research at Polyadic AI working in building state of the art Continuous Diffusion Language Models.
 
-I am a machine learning researcher with a PhD in Computer Science from the National University of Singapore, where I was advised by [Prof. Kenji Kawaguchi](https://scholar.google.com/citations?user=5UUCCSgAAAAJ). Prior to that, I completed an MMath in Mathematics and Statistics at the University of Oxford.
+I completed PhD in Computer Science from the National University of Singapore, where I was advised by [Prof. Kenji Kawaguchi](https://scholar.google.com/citations?user=5UUCCSgAAAAJ). Prior to that, I completed an MMath in Mathematics and Statistics at the University of Oxford.
 
-My research focuses on understanding and improving the capabilities and efficiency of large language models. I am particularly interested in long-context modeling, memory-efficient inference, language model expressivity, and diffusion language models.
+My research is focused on understanding and improving the capabilities and efficiency of large language models. I am particularly interested in long-context modeling, memory-efficient inference, language model expressivity, and diffusion language models.
 
 My work spans both theoretical and empirical research, with an emphasis on understanding the computational and architectural constraints of language models and developing methods to overcome them.
 
